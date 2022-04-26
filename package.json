@@ -2,7 +2,7 @@
     "name": "com.wellmor.per-renderer-data",
     "author": "WellMOR",
     "displayName": "Per Renderer Data",
-    "description": "Per Renderer Data - simple wrapper around material property block",
+    "description": "A simple tool for serialization and easy use MaterialPropertyBlock from the Unity Editor",
     "unity": "2019.4",
     "version": "0.0.1",
     "keywords": [
