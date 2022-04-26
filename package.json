@@ -1,0 +1,32 @@
+{
+    "name": "com.wellmor.per-renderer-data",
+    "author": "WellMOR",
+    "displayName": "Per Renderer Data",
+    "description": "Per Renderer Data - simple wrapper around material property block",
+    "unity": "2019.4",
+    "version": "0.0.1",
+    "keywords": [
+        "wellmor",
+        "instancing",
+        "material",
+        "unity",
+        "gpu instancing"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wellmor/per-renderer-data"
+    },
+    "samples": [
+        {
+            "displayName": "Built-in RP",
+            "description": "Simple example for built-in render pipeline",
+            "path": "Samples~/BuiltIn"
+        },
+        {
+            "displayName": "Universal RP",
+            "description": "Simple example for universal render pipeline",
+            "path": "Samples~/URP"
+        }
+    ]
+}
