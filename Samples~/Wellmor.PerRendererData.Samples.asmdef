@@ -1,0 +1,16 @@
+{
+    "name": "Wellmor.PerRendererData.Samples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4ae4905a0750d7f45a0e1ce89f6e4ec4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
