@@ -1,0 +1,18 @@
+{
+    "name": "Wellmor.PerRendererData.Editor",
+    "rootNamespace": "Wellmor.PerRendererData",
+    "references": [
+        "Wellmor.PerRendererData.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

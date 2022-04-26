@@ -1,0 +1,14 @@
+{
+    "name": "Wellmor.PerRendererData.Runtime",
+    "rootNamespace": "Wellmor.PerRendererData",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
