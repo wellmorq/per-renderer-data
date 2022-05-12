@@ -1,4 +1,4 @@
-### Per Renderer Data
+## Per Renderer Data
 This tool is designed for convenient use of [MaterialPropertyBlock](https://docs.unity3d.com/ScriptReference/MaterialPropertyBlock.html) from the Unity editor.
 Think of it as overriding a material for a specific Renderer.
 
@@ -19,3 +19,8 @@ By the way, I add samples that have simple shader example with instancing suppor
 ![2](https://user-images.githubusercontent.com/15890881/165573750-072dd1f5-0294-4469-8f03-9002ae06d041.png)
 ![2](https://user-images.githubusercontent.com/15890881/165573114-98b3a9e7-13f8-4bcc-bc15-6a12ff3b429c.png)
 
+
+### License
+The software is released under the terms of the MIT license.
+
+No personal support or any guarantees.
